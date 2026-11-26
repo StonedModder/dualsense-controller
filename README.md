@@ -1,3 +1,11 @@
+<!-- unleashedapi -->
+<p align="center">
+  <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=dualsense-controller">
+    <img src="https://raw.githubusercontent.com/StonedModder/unleashedapi/main/assets/banner-slim.png" alt="UnleashedAPI — uncensored OpenAI-compatible AI API. Free to start." width="100%">
+  </a><br>
+  Fork by <a href="https://github.com/StonedModder">StonedModder</a>. <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=dualsense-controller"><strong>UnleashedAPI</strong></a> — uncensored OpenAI-compatible models, free to start.
+</p>
+
 # DualSense Controller
 
 An interactive PS5 DualSense recreation built with HTML, CSS, JavaScript, and Three.js. The model, textures, and Three.js modules are included locally; the controller works without an external CDN. Netlify builds a static publish folder and a leaderboard function. Optional analytics loads from PostHog; blocking it does not affect the controller.
